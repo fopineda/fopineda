@@ -18,4 +18,3 @@ Hello, my name is Felipe Pineda. I am a first generation American born in North 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=Python-IP-Tracker)](https://github.com/fopineda/Python-IP-Tracker)
 
 
-## My Music
