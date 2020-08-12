@@ -1,5 +1,8 @@
-# ¿Quién Soy?
 
+![](header.png)
+
+
+# ¿Quién Soy?
 Hello, my name is Felipe Pineda. I am a first generation Mexican-American born in North Carolina, US. I an avid developer that is constantly building new projects and learning new skills. I attended the University of North Carolina at Chapel Hill (UNC) earning a B.S. in Computer Science. I also have background in IT and currently I am an Offensive Cyberspace Officer for the United States Air Force. My passion lies in coding but occasionally I dabble in Cybersecurity. I recently received my Security+ certification, which helps understand a lot of the defense and security concepts that take place in organizations/companies. 
 
   * Full Stack developer building in the MERN (Mongo, Express, React, Node) stack
