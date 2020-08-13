@@ -1,5 +1,5 @@
 
-![](https://github.com/fopineda/fopineda/blob/master/header.png)
+![](header-dos.png)
 
 
 # ¿Quién Soy?
