@@ -4,8 +4,7 @@ Hello, my name is Felipe Pineda. I am a first generation Mexican-American born i
 <p align="center"><img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"><img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="160px" width="160px"><img src="https://octodex.github.com/images/ironcat.jpg" height="160px" width="160px"><img src="https://octodex.github.com/images/stormtroopocat.png" height="160px" width="160px"><img src="https://octodex.github.com/images/Octogatos_Sticker3.png" height="160px" width="160px"></p>
 
   * Full Stack developer building in the MERN (Mongo, Express, React, Node) stack
-  * Currently working on finishing up [task-manager-api](https://github.com/fopineda/task-manager-api) 🗒️ ✅
-  * Building an Indecision application using React [indecision-app](https://github.com/fopineda/indecision-app) 🤔   
+  * Currently working on finishing up [task-manager-api](https://github.com/fopineda/task-manager-api) 🗒️ ✅  
   * Revamping Portfolio, but only using basic HTML, CSS, JS. It's a bit of a challenge (private repo) 😉
   * Developing Networking/Pen Testing tools in Python 🐍
 
@@ -17,7 +16,7 @@ Hello, my name is Felipe Pineda. I am a first generation Mexican-American born i
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=task-manager-api)](https://github.com/fopineda/task-manager-api) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=chat-app)](https://github.com/fopineda/chat-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=weather-app)](https://github.com/fopineda/weather-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=Python-MAC-Changer)](https://github.com/fopineda/Python-MAC-Changer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=indecision-app)](https://github.com/fopineda/indecision-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=Python-IP-Tracker)](https://github.com/fopineda/Python-IP-Tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=Python-Send-Packet-Scapy)](https://github.com/fopineda/Python-Send-Packet-Scapy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fopineda&repo=Im-In)](https://github.com/fopineda/Im-In)
